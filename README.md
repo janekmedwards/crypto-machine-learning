@@ -59,13 +59,7 @@ This repository contains a comprehensive machine learning pipeline for forecasti
 
 ### Setup
 
-1. Clone this repository:
-```bash
-git clone <repository-url>
-cd "ML & AI in Finance/Janek_Edwards_ML_AI"
-```
-
-2. Install dependencies:
+1. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
